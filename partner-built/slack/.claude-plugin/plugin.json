@@ -1,6 +1,6 @@
 {
   "name": "slack-by-salesforce",
-  "description": "Slack integration for searching messages, sending communications, managing canvases, and more",
+  "description": "Official Slack MCP server for interactive and collaborative workflows. Surface insights, draft messages, and engage teams directly within Slack from Claude Cowork.",
   "version": "1.0.0",
   "author": {
     "name": "Salesforce",
